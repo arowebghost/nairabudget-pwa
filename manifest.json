@@ -1,0 +1,26 @@
+{
+  "name": "Naira Budget Calculator",
+  "short_name": "NairaBudget",
+  "description": "Free Nigerian salary budget calculator. Split your naira income instantly.",
+  "start_url": "https://www.nairabudgetcalculator.com/",
+  "scope": "https://www.nairabudgetcalculator.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "lang": "en-NG",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/6cc4KwdL/icon-192-png.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/JjYmkwYg/icon-512-png.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
