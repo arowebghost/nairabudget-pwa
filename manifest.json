@@ -9,6 +9,7 @@
   "background_color": "#ffffff",
   "theme_color": "#10b981",
   "lang": "en-NG",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "https://i.ibb.co/8DcDckC0/icon-192.png",
